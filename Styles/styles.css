@@ -1,0 +1,133 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+body{
+    background-color: lightblue;
+}
+
+.imgLogo{
+    border-radius: 30%;
+    margin: 15px
+}
+
+.nav-item{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.carousel{
+    width: 95%;
+    display: block;
+    margin: auto;
+}
+
+.ubicacion{
+    display: block;
+}
+
+.tituloMapa{
+    font-size: 5vh;
+    font-weight: bolder;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.direccion{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.mapaGoogle{
+    align-items: center;
+    max-width: 80%;
+    max-height: 80%;
+    margin-top: 30px;
+}
+
+footer{
+    display: flexbox;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+    font-size: 2vh;
+    border-top: 5px solid black;
+    padding-top: 20px;
+}
+
+.fblogo{
+    align-items: center;
+}
+.containerRedesSociales{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.logoRS{
+    font-size: 4vh;
+    color: grey;
+    padding: 8px;
+}
+
+.logoRS:hover{
+    color: green;
+}
+.paraRedes{
+    text-align: center;
+    font-size: x-large;
+}
+
+.politicas{
+    color: white;
+    text-align: center;
+}
+
+.infoProyecto{
+    text-align: center;
+}
+
+/* Página Productos */
+
+.containerCards{
+    padding: 20px;
+}
+
+.card{
+    max-width: 80%;
+    margin:auto;
+}
+
+.blockquote-footer{
+    background-color: grey;
+    color: white;
+    text-align: end;
+}
+
+.bi-star-fill{
+    color: gold;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 90%;
+    margin: auto;
+}
+
+.input-group-text{
+    min-width: 400px;
+    max-width: 800px;
+}
+
+.tituloContacto{
+    margin: auto;
+    padding: 20px;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+
+}
