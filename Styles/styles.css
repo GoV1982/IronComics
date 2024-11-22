@@ -129,5 +129,19 @@ footer{
 .btn{
     background-color: blue;
     color: white;
-
 }
+
+.videoContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tituloVideo{
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+/*s002 - s005 / a004 - s018 / s007 / s002 */
+/*s009 - s029 / s026 - s018 / s030 / s002 */
